@@ -1,7 +1,6 @@
 
-# Project Title
+# Deploy nexus using Ansible
 
-Deploy-nexus-by-Ansible.
 
 # Prerequisites
 
